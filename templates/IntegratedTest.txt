@@ -1,0 +1,15 @@
+component extends="{{type}}" {
+
+    function beforeAll() {
+        super.beforeAll();
+    }
+
+    function afterAll() {
+        super.afterAll();
+    }
+    
+    function run() {
+        
+    }
+
+}
